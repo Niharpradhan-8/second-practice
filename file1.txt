@@ -1,9 +1,7 @@
 I am working with java and springboot.
-<<<<<<< HEAD
 <p>Nihar Ranjna Pradhan</p>
 <p>Hello</p>
 <p>I am a software Developer</p>
-=======
 <p>Hello</p>
 <h3>Github</h3>
->>>>>>> third-feature
+
